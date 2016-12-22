@@ -19,7 +19,7 @@
         "MIT"
     ],
     "main": [
-        "linea.css"
+        "stylesheet/linea.css"
     ],
     "ignore": [
         "*/.*",
