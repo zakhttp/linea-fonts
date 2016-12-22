@@ -1,0 +1,34 @@
+{
+    "name": "linea-fonts",
+    "authors": [
+        "zakhttp"
+    ],
+    "description": "package wrap around linea fonts for easy integration in web projects",
+    "keywords": [
+        "fonts",
+        "linea",
+        "icon"
+    ],
+    "homepage": "https://github.com/zakhttp/linea-fonts.git",
+    "bugs": {
+        "url": "https://github.com/zakhttp/linea-fonts/issues"
+    },
+    "dependencies": {},
+    "devDependencies": {},
+    "license": [
+        "MIT"
+    ],
+    "main": [
+        "linea.css"
+    ],
+    "ignore": [
+        "*/.*",
+        "*.json",
+        "src",
+        "*.yml",
+        "Gemfile",
+        "Gemfile.lock",
+        "*.md"
+    ],
+    "version": "0.5.0"
+}
